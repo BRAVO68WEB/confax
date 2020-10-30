@@ -11,7 +11,7 @@
     "dotenv": "^8.1.0",
     "js-yaml": "^3.13.1",
     "mathjs": "^6.1.0",
-    "request": "^2.88.0"
+    "request": "^2.88.2"
   },
   "devDependencies": {
     "standard": "^14.0.2"
