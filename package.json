@@ -7,7 +7,7 @@
     "url": "https://github.com/bananaprotocol/confax/issues"
   },
   "dependencies": {
-    "discord.js": "^11.5.1",
+    "discord.js": "^11.6.4",
     "dotenv": "^8.1.0",
     "js-yaml": "^3.13.1",
     "mathjs": "^6.1.0",
